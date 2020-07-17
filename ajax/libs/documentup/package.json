@@ -17,7 +17,7 @@
     "coffee-script": "~1.1.0",
     "stylus":        "0.22.6",
     "nib":           "0.3.2",
-    "uglify-js":     "1.2.5",
+    "uglify-js":     "3.10.0",
     "ender":         "0.8.3",
     "async":         "0.1.15"
   }
